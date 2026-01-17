@@ -7,7 +7,7 @@ const config = {
   OPEN_TO_WORK: false,
 
   // Your resume file (place in public folder)
-  RESUME_URL: "/Prathamesh_Bavkar_Resume.pdf",
+  RESUME_URL: "prathamesh.pdf",
 
   // Personal info
   NAME: "Prathamesh",
