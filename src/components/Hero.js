@@ -5,7 +5,7 @@ const Hero = ({ config }) => {
     e.preventDefault();
     const link = document.createElement('a');
     link.href = config.RESUME_URL;
-    link.download = 'Prathamesh_Bavkar_Resume.pdf';
+    link.download = 'prathamesh.pdf';
     link.click();
   };
 
